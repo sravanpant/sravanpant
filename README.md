@@ -1,11 +1,12 @@
 <div id="header" align="center">
   <img
-    src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
+    src="https://github.com/sravanpant/sravanpant/assets/70965196/5d52b23c-a37c-4adb-8dd3-91a913f966ff"
     alt="Working on code"
-    width="100"
+    width=300
+    height=300
   />
 
-  <div id="badges">
+  <div id="badges" style="border-radius:30">
     <a href="https://www.linkedin.com/in/sravan-pant-496189228">
       <img
         src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -32,15 +33,15 @@
   </h1>
 </div>
 
-<div align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></div>
+<div align="center"><img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="600" height="300"  /></div>
 
 
-## :man_technologist: I am a Growing Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who still has got more to learn.
+## :man_technologist: I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who still has got more to learn.
 
 
-- 🔭 I’m currently working on The keeper project which is a clone of google keep
-- 🌱 I’m currently learning reactjs
-- ⚡ Fun fact: I love to read books and novel
+- 🔭 I’m currently working on FreeCodeCamp Machine Learning Project
+- 🌱 I’m currently learning Machine Learning and Deep Learning
+- ⚡ Fun fact: I love to read books and novels
 
 ---
 
@@ -85,23 +86,16 @@
 
 <div>
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-    title="HTML5"
-    alt="HTML"
+    src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+    title="Python"
+    alt="Python"
     width="40"
     height="40"
   />&nbsp;
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
-    title="CSS3"
-    alt="CSS"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"
-    title="Bootstrap"
-    alt="Bootstrap"
+    src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"
+    title="Tensorflow"
+    alt="Tensorflow"
     width="40"
     height="40"
   />&nbsp;
@@ -109,6 +103,27 @@
     src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
     title="JavaScript"
     alt="JavaScript"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
+    title="Tailwind"
+    alt="Tailwind"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
+    title="React.js"
+    alt="React.js"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_800/0/1678383920919?e=1695254400&v=beta&t=US_s8gLZIT17KzqlZPLR9_VSvwpHl1gbrk7rxgiE364"
+    title="Next.js"
+    alt="Next.js"
     width="40"
     height="40"
   />&nbsp;
@@ -127,9 +142,16 @@
     height="40"
   />&nbsp;
   <img
-    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
-    title="React"
-    alt="React"
+    src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
+    title="HTML5"
+    alt="HTML"
+    width="40"
+    height="40"
+  />&nbsp;
+  <img
+    src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
+    title="CSS3"
+    alt="CSS"
     width="40"
     height="40"
   />&nbsp;
