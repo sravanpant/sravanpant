@@ -33,7 +33,7 @@
   </h1>
 </div>
 
-<div align="center"><img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="600" height="300"  /></div>
+<!-- <div align="center"><img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="600" height="300"  /></div> -->
 
 
 ## :man_technologist: I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who still has got more to learn.
