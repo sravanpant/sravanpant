@@ -39,44 +39,9 @@
 ## :man_technologist: I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who still has got more to learn.
 
 
-- 🔭 I’m currently working on FreeCodeCamp Machine Learning Project
+- 🔭 I’m currently following through Introduction To Tensorflow, Machine Learning and Deep Learning course on Coursera
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - ⚡ Fun fact: I love to read books and novels
-
----
-
-### :mailbox: Connect with me: 
-
-
-<div>
-  <a href="https://twitter.com/sravan_pant">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg"
-      title="Twitter"
-      alt="Twitter"
-      width="40"
-      height="40"
-    />&nbsp;
-  </a>
-  <a href="https://www.linkedin.com/in/sravan-pant-496189228">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"
-      title="LinkedIn"
-      alt="LinkedIn"
-      width="40"
-      height="40"
-    />&nbsp;
-  </a>
-  <a href="mailto:sravan.pant5@gmail.com"> 
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg"
-      title="Gmail"
-      alt="Gmail"
-      width="40"
-      height="40"
-    />&nbsp;
-  </a>
-</div>
 
 ---
 
@@ -192,6 +157,41 @@
   />&nbsp;
 </div>
 
+
+---
+
+### :mailbox: Connect with me: 
+
+
+<div>
+  <a href="https://twitter.com/sravan_pant">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg"
+      title="Twitter"
+      alt="Twitter"
+      width="40"
+      height="40"
+    />&nbsp;
+  </a>
+  <a href="https://www.linkedin.com/in/sravan-pant-496189228">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"
+      title="LinkedIn"
+      alt="LinkedIn"
+      width="40"
+      height="40"
+    />&nbsp;
+  </a>
+  <a href="mailto:sravan.pant5@gmail.com"> 
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg"
+      title="Gmail"
+      alt="Gmail"
+      width="40"
+      height="40"
+    />&nbsp;
+  </a>
+</div>
 
 ---
 
