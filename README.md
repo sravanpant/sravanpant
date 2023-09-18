@@ -40,7 +40,7 @@
 
 
 - 🔭 I’m currently following through Documentation of the Django Framework of Python.
-- 🌱 I’m currently learning Django to integrate it into my frontend framework with nextjs and reactjs.
+- 🌱 I’m currently learning Django to integrate backend into my frontend framework with nextjs and reactjs.
 - 🖥️ I'm also learning Data Structures and Algorithm.
 - ⚡ Fun fact: I love to read books and novels
 
