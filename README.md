@@ -39,8 +39,9 @@
 ## :man_technologist: I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who still has got more to learn.
 
 
-- 🔭 I’m currently following through Introduction To Tensorflow, Machine Learning and Deep Learning course on Coursera
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 🔭 I’m currently following through Documentation of the Django Framework of Python.
+- 🌱 I’m currently learning Django to integrate it into my frontend framework with nextjs and reactjs.
+- 🖥️ I'm also learning Data Structures and Algorithm.
 - ⚡ Fun fact: I love to read books and novels
 
 ---
