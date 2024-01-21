@@ -1,216 +1,30 @@
-<div id="header" align="center">
-  <img
-    src="https://github.com/sravanpant/sravanpant/assets/70965196/5d52b23c-a37c-4adb-8dd3-91a913f966ff"
-    alt="Working on code"
-    width=300
-    height=300
-  />
-
-  <div id="badges" style="border-radius:30">
-    <a href="https://www.linkedin.com/in/sravan-pant-496189228">
-      <img
-        src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-        alt="LinkedIn Badge"
-      />
-    </a>
-    <a href="https://twitter.com/sravan_pant">
-      <img
-        src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"
-        alt="Twitter Badge"
-      />
-    </a>
-  </div>
-
-  <div id="badges">
-    <img
-      src="https://komarev.com/ghpvc/?username=sravanpant&style=flat-square&color=blue"
-      alt=""
-    />
-  </div>
-  <h1>
-    Hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-</div>
-
-<!-- <div align="center"><img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="600" height="300"  /></div> -->
+# 💫 About Me:
+🔭 I’m currently working on a SaaS Project<br>👯 I’m looking to collaborate on a Full Stack Project <br>🤝 I’m looking for help with Accessibility and Performance for websites<br>🌱 I’m currently learning Machine Learning Fundamentals<br>💬 Ask me about anything<br>⚡ Fun fact: WebNovel and anime fan
 
 
-## :man_technologist: I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> who still has got more to learn.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sravanpant) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sravanpant) 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=flat&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=flat&logo=planetscale&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sravanpant&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sravanpant&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sravanpant&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🔭 I’m currently following through Documentation of the Django Framework of Python.
-- 🌱 I’m currently learning Django to integrate backend into my frontend framework with nextjs and reactjs.
-- 🖥️ I'm also learning Data Structures and Algorithm.
-- ⚡ Fun fact: I love to read books and novels
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sravanpant&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=sravanpant&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sravanpant&icon=5&color=0)](https://visitcount.itsvg.in)
 
-### :hammer_and_wrench: Languages and Tools :
-
-
-
-<div>
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
-    title="Python"
-    alt="Python"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"
-    title="Tensorflow"
-    alt="Tensorflow"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"
-    title="JavaScript"
-    alt="JavaScript"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"
-    title="Tailwind"
-    alt="Tailwind"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"
-    title="React.js"
-    alt="React.js"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://media.licdn.com/dms/image/C5622AQEaSzZNrNFgUQ/feedshare-shrink_800/0/1678383920919?e=1695254400&v=beta&t=US_s8gLZIT17KzqlZPLR9_VSvwpHl1gbrk7rxgiE364"
-    title="Next.js"
-    alt="Next.js"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
-    title="NodeJS"
-    alt="NodeJS"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg"
-    title="MongoDB"
-    alt="MongoDB"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"
-    title="HTML5"
-    alt="HTML"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"
-    title="CSS3"
-    alt="CSS"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"
-    title="Git"
-    alt="Git"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg"
-    title="Heroku"
-    alt="Heroku"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
-    title="C"
-    alt="C"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://www.svgrepo.com/show/354202/postman-icon.svg"
-    title="Postman"
-    alt="Postman"
-    width="40"
-    height="40"
-  />&nbsp;
-  <img
-    src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"
-    title="Vscode"
-    alt="Vscode"
-    width="40"
-    height="40"
-  />&nbsp;
-</div>
-
-
----
-
-### :mailbox: Connect with me: 
-
-
-<div>
-  <a href="https://twitter.com/sravan_pant">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg"
-      title="Twitter"
-      alt="Twitter"
-      width="40"
-      height="40"
-    />&nbsp;
-  </a>
-  <a href="https://www.linkedin.com/in/sravan-pant-496189228">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"
-      title="LinkedIn"
-      alt="LinkedIn"
-      width="40"
-      height="40"
-    />&nbsp;
-  </a>
-  <a href="mailto:sravan.pant5@gmail.com"> 
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg"
-      title="Gmail"
-      alt="Gmail"
-      width="40"
-      height="40"
-    />&nbsp;
-  </a>
-</div>
-
----
-
-### :fire: My Stats :
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sravanpant&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-### 📛 My Badges :
-[![@sravanpant's Holopin board](https://holopin.io/api/user/board?user=sravanpant)](https://holopin.io/@sravanpant)
-
-
-<!--
-**sravanpant/sravanpant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- 💬 Ask me about ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
